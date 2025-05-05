@@ -1,0 +1,5 @@
+php artisan serve --host=192.168.100.43
+php artisan migrate:fresh
+
+project code in firbase
+
